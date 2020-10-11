@@ -24,7 +24,7 @@ All part numbers should:
 
 Documents should bear one of the following type codes:
 
-* **No type code** for parts - 2D or 3D models and drawings describing physical objects in Fusion 360, FreeCAD, etc.
+* **No type code** for parts - 2D or 3D models and drawings describing physical objects in Fusion 360.
 * **ASM** for assemblies - 2D or 3D models and drawings containing multiple parts.
 
 ### Numeric codes
@@ -35,7 +35,7 @@ There is no requirement that numeric codes carry meaning; they may be sequential
 
 The dash number suffix is an optional suffix of arbitrary length, with a format defined at component level. The typical use of dash numbers is to designate variations on a common item. For example, a whole family of screws may be designated:
 
-EGM-PRT-0000-[A]X[B] where **[A]**=thread M2, M3, etc and **[B]**=length in mm
+EGM-0000-[A]X[B] where **[A]**=thread M2, M3, etc and **[B]**=length in mm
 
 If a part uses dash numbers, its associated BOM should include a column defining the dash number format.
 
