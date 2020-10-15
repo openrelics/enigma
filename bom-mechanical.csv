@@ -1,0 +1,154 @@
+﻿Part number,Description,Other names,Dash number format
+EGM-ASM-0001,"Assembly, Enigma cipher, M1","101000, Rack Explosion",None
+EGM-ASM-0002-[A],"Assembly, rack step [A]","100201, 100301 Rack I, II Explosion",[A] = assembly step number
+EGM-ASM-0003,"Assembly, base plate","100116, Baseplate Explosion",None
+EGM-ASM-0004,"Assembly, release lever","100101, Lever Assembly Explosion",None
+,,,
+EGM-ASM-0101,"Assembly, detent yoke","100114, Axles Explosion",None
+EGM-ASM-0102,"Assembly, cam follower","100108, Roll Retainer Assy Explosion",None
+EGM-ASM-0103,"Assembly, detent arm shaft","100109, Axle Bottom Explosion",None
+EGM-ASM-0104,"Assembly, detent arm","100113, Centering Device Explosion",None
+,,,
+EGM-ASM-0201,"Assembly, action bar","100107, Compensator Explosion",None
+,,,
+EGM-ASM-0301,"Assembly, entry disc","100106, Access Roll Explosion",None
+,,,
+EGM-ASM-0401-[A],"Assembly, key short [A]","100102, Button Short Assy Explosion",[A] = key letter A-Z
+EGM-ASM-0402-[A],"Assembly, key medium [A]","100103, Button Medium Assy Explosion",[A] = key letter A-Z
+EGM-ASM-0403-[A],"Assembly, key long [A]","100104, Button Long Assy Explosion",[A] = key letter A-Z
+EGM-ASM-0404,"Assembly, lower plate, keyboard","100117, Contactor Plate Explosion",None
+,,,
+EGM-ASM-0501,"Assembly, lamp holder","100105, Lamp Holder Explosion",None
+EGM-ASM-0502,"Assembly, standoff, lamp holder","100115, Core Explosion",None
+,,,
+EGM-ASM-0601,"Assembly, plugboard","100110, Patch Panel Explosion",None
+,,,
+EGM-ASM-0701,"Assembly, bumper low","100111, Bent Low Explosion",None
+EGM-ASM-0702,"Assembly, bumper high","100112, Bent High Explosion",None
+,,,
+EGM-ASM-0801,"Assembly, reflector","300100, Reverse Roll Explosion",None
+,,,
+EGM-ASM-0901-[A],"Assembly, rotor [A]","400201, 400202, 400203 Roll III, IV, V Explosion",[A] = rotor roman numeral
+EGM-ASM-0902,"Assembly, core, rotor","400101, Roll Body Explosion",None
+EGM-ASM-0903,"Assembly, ring clamp, rotor","400102, Clamp Explosion",None
+EGM-ASM-0904,"Assembly, rotor stack","400301, Rolls Explosion",None
+,,,
+EGM-0001,Base plate,"100002, Base Plate",None
+EGM-0002,Bearing block left,"100001, Bearing Block Left",None
+EGM-0003,Bearing block right,"100012, Bearing Block Right",None
+EGM-0004,Trident,"100004, Trident",None
+EGM-0005,Shaft holder,"100005, Shaft Holder",None
+EGM-0006,Release lever,"100006, Lever",None
+EGM-0007,"Knob, release lever","100043, Knob Lever",None
+EGM-0008,Indexer retainer,"100010, Protection Sheet",None
+EGM-0009,Reflector locating pin,"100048, Locating Pin",None
+EGM-0010,Rotor shaft,"400004, Roll Shaft",None
+,,,
+EGM-0101,"Bracket, cam follower, detent yoke","100007, Roll Retainer",None
+EGM-0102,"Bracket, plain, detent yoke","100040, Retainer",None
+EGM-0103,"Upper rod, detent yoke","100008, Axle Top",None
+EGM-0104,"Lower rod, detent yoke","100009, Axle Bottom",None
+EGM-0105,"Arm, detent yoke","100039, Centering Device",None
+EGM-0106,"Spacer, detent yoke","100041, Sleeve 5",None
+EGM-0107,"Pivot, thumbwheel roller, detent yoke","100055, Spike",None
+EGM-0108,"Bushing, detent yoke","100056, Sleeve",None
+EGM-0109,"Roller, cam follower, detent yoke","100044, Roll Lever",None
+EGM-0110,"Thumbwheel roller, detent yoke","100046, Roll Centering Device",None
+EGM-0111,"Spring, detent yoke return","100072, Spring",None
+EGM-0112,"Spring, detent travel","100073, Spring",None
+,,,
+EGM-0201,Action bar,"100003, Compensator",None
+EGM-0202,"Rod, action bar","100034, Axle Compensator",None
+EGM-0203,"Driver pawl thin, action bar","100035, Driver Thin",None
+EGM-0204,"Driver pawl thick, action bar","100036, Driver Thick",None
+EGM-0205,"Bushing, action bar","100057, Sleeve",None
+EGM-0206,"Bushing, flanged, action bar","100042, Sleeve 6",None
+EGM-0207,"Spring, driver pawl, action bar","100058, Spring",None
+EGM-0208,"Screw, action bar pivot","100069, Screw",None
+EGM-0209,"Spring, action bar return","100070, Spring",None
+EGM-0210,"Spacer, action bar spring","100071, Sleeve",None
+,,,
+EGM-0301,"Core, entry disc","100011, Access Roll",None
+EGM-0302,"Plate, entry disc","100013, Access Plate",None
+EGM-0303,"Ring, entry disc","100014, Access Ring",None
+EGM-0304,"Contact pin, entry disc","100047, Contact Pin",None
+,,,
+EGM-0401,Keyboard,"100018, Input Board",None
+EGM-0402,"Lower plate, keyboard","100020, Contactor Plate",None
+EGM-0403,"Anti rotation plate, keyboard","100059, Anti-Twist Device",None
+EGM-0404,"Bumper, key","100026, Plastic Plug",None
+EGM-0405,Key head,"100028, Button Head Bottom",None
+EGM-0406-[A],"Letter [A] insert, key head",None,[A] = key letter A-Z
+EGM-0407,"Ferrule, key head","100027, Button Head Top",None
+EGM-0408,"Glass disc, key head","100029, Button Head Glass",None
+EGM-0409,Key body short,"100025, Button Short",None
+EGM-0410,Key body medium,"100030, Button Medium",None
+EGM-0411,Key body long,"100031, Button Long",None
+EGM-0412,"Spring, key medium","100051, Spring",None
+EGM-0413,"Spring, key short","100052, Spring",None
+EGM-0414,"Spring, key long","100053, Spring",None
+EGM-0415,"Spacer, key long","100054, Sleeve",None
+,,,
+EGM-0501,Lamp holder,"100050, Lamp Holder",None
+EGM-0502,Segment plate,"100022, Segment Plate",None
+EGM-0503,"Bracket, mounting, lamp holder","100049, Flange",None
+EGM-0504,"Socket bar bracket, lamp holder","100060, L Section",None
+EGM-0505,"Socket bar, lamp holder","100061, Socket Bar",None
+EGM-0506,"Top insulator, lamp holder","100062, Isolator Plate",None
+EGM-0507,"Pin, lamp holder","100063, Spring Pin",None
+EGM-0508,"Spring, compression, lamp holder","100064, Spring",None
+EGM-0509,"Standoff, lamp holder","100065, Core",None
+EGM-0510,"Standoff sleeve, lamp holder","100066, Plastic Core",None
+,,,
+EGM-0601,Plugboard,"100015, Patch Panel",None
+EGM-0602,"Jack small, plugboard","100032, Input Jack Small",None
+EGM-0603,"Jack large, plugboard","100033, Input Jack Big",None
+,,,
+EGM-0701,"Standoff, top cover ","100016, Bolt",None
+EGM-0702,"Standoff, segment plate","100021, Pillar Small",None
+EGM-0703,"Standoff, keyboard edge tall","100017, Column Long",None
+EGM-0704,"Standoff, keyboard edge short","100019, Column Short",None
+EGM-0705,"Standoff, keyboard center short","100023, Column Centre Low",None
+EGM-0706,"Standoff, keyboard center tall","100024, Column Centre High",None
+EGM-0707,Bumper base high,"100037, Bent High",None
+EGM-0708,Bumper base low,"100038, Bent Low",None
+EGM-0709,Bumper base slotted,"100068, Stop Pin",None
+EGM-0710,Bumper,"100045, Bent Cap",None
+EGM-0711,"Mount, bumper","100067, Stop Plate",None
+,,,
+EGM-0801,"Core, reflector","300001, Reverse Roll",None
+EGM-0802,"Enclosure, reflector","300002, Cabinet",None
+EGM-0803,"Wedge mount, reflector","300003, Wedge Holder",None
+EGM-0804,"Wedge, reflector","300004, Wedge",None
+EGM-0805,"Terminal plate, reflector","300005, Blank",None
+EGM-0806,"Socket, reflector","300006, Bushing",None
+EGM-0807,"Screw plate, reflector","300007, Screw Plate",None
+EGM-0808,"Insulation plate, reflector","300008, Isolator Plate",None
+EGM-0809,"Center bushing, reflector","300009, Axle",None
+,,,
+EGM-0901,"Kerf ring, rotor","400001, Kerfring",None
+EGM-0902-[A],"Digit ring, rotor [A]","400002, 400020, 400021  Digitring",[A] = rotor roman numeral
+EGM-0903,"Bushing, rotor","400003, Bushing",None
+EGM-0904,"Bracket, ring clamp, rotor","400005, Bracket",None
+EGM-0905,"Leafspring, ring clamp, rotor","400006, Clamp",None
+EGM-0906,"Pin, ring clamp, rotor","400007, Pin",None
+EGM-0907,"Pin retainer, ring clamp, rotor","400008, Cap",None
+EGM-0908,"Core, rotor","400009, Centre Toothed Wheel",None
+EGM-0909,"Anvil, spring pin, rotor","400010, Contact Die",None
+EGM-0910,"Contact plate, rotor","400011, Rollplate",None
+EGM-0911,"Center bushing, rotor","400012, Steel Bushing",None
+EGM-0912,"Threaded insert, M3, rotor","400013, Thread Bushing",None
+EGM-0913,"Thumbwheel, rotor","400014, Toothed Wheel",None
+EGM-0914,"Coping plate, rotor","400015, Coping",None
+EGM-0915,"Contact, fixed, rotor","400016, Contact Pin",None
+EGM-0916,"Spring, spring pin, rotor","400017, Spring",None
+EGM-0917,"Contact, spring pin, rotor","400018, Spring Pin",None
+EGM-0918,"Threaded insert, M1.6, rotor","400019, Thread Bushing Small",None
+,,,
+EGM-9001-[A]X[B]-[C],"Screw, slotted, cheese head, metric, DIN EN ISO 1207",None,"[A] = thread M2, M3 etc [B] = length mm [C] = material GLV, STL, SSL, BRA, etc"
+EGM-9002-[A]X[B]-[C],"Screw, slotted, countersunk head, metric, DIN EN ISO 2009",None,"[A] = thread M2, M3 etc [B] = length mm [C] = material GLV, STL, SSL, BRA, etc"
+EGM-9003-[A],"Nut, hex, metric, DIN EN 24034",None,"[A] = thread M2, M3 etc"
+EGM-9004-[A],"Nut, thin hex, metric, DIN EN 24035",None,"[A] = thread M2, M3 etc"
+EGM-9005-[A],"Washer, flat, metric, DIN 433",None,"[A] = screw size M2, M3 etc"
+EGM-9006-[A]X[B],"Pin, dowel, metric, ISO 8734",None,[A] = diameter mm [B] = length mm
+EGM-9007-[A],"Retaining ring, e-style, metric, DIN 6799",None,[A] = groove diameter mm
